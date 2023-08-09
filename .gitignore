@@ -41,9 +41,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-package.json
-package-lock.json
-
+package.lock.json/
+package.json/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -93,9 +92,6 @@ out
 # Nuxt.js build / generate output
 .nuxt
 dist
-/assets/
-data.jsx
-.vscode
 
 # Gatsby files
 .cache/
