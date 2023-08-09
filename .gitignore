@@ -41,11 +41,11 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-package.lock.json
-package.json
-vite.config.js
-data.jsx
-assets/
+.package.lock.json
+.package.json
+.vite.config.js
+.data.jsx
+.assets/
 
 
 # Snowpack dependency directory (https://snowpack.dev/)
