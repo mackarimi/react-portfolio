@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "start": "react-scripts start",
     "test": "vitest",
@@ -33,7 +33,6 @@
     "eslint-plugin-react": "^7.33.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
-    "gh-pages": "^5.0.0",
     "prettier": "^3.0.0",
     "vite": "^4.4.5",
     "vite-plugin-react-refresh": "^1.0.0",
