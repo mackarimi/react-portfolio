@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mackarimi.github.io/mac-react-portfolio",
-  "name": "mac-react-portfolio",
+  "homepage": "https://mackarimi.github.io/react-portfolio",
+  "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -33,6 +33,7 @@
     "eslint-plugin-react": "^7.33.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "gh-pages": "^5.0.0",
     "prettier": "^3.0.0",
     "vite": "^4.4.5",
     "vite-plugin-react-refresh": "^1.0.0",
