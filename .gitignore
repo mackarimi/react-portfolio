@@ -42,6 +42,7 @@ build/Release
 node_modules/
 jspm_packages/
 
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
@@ -129,10 +130,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Ignore build artifacts and dependencies
-/build
-/dist
-/node_modules
-
-# Ignore Vite-specific cache directory
-.vite
+# hide vite.config.js
+vite.config.js
+index.html
