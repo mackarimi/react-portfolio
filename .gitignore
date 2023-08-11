@@ -130,6 +130,10 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# hide vite.config.js
+
+# Ignore Vite-specific cache directory
+.vite
+
+# Ignore specific files
 vite.config.js
 index.html
