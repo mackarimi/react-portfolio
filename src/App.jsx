@@ -9,10 +9,9 @@ import About from "./pages/about/About";
 import Portfolio from "./pages/portfolio/Portfolio";
 import Contact from "./pages/contact/Contact";
 
-
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-portfolio">
       <Navbar />
       <Themes />
       <Routes>
