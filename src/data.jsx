@@ -84,8 +84,8 @@ export const personalInfo = [
 
   {
     id: 5,
-    title: "Web Developer : ",
-    description: "Available",
+    title: "Profession:",
+    description: " Full Stack Web Developer",
   },
 
   {
@@ -145,8 +145,8 @@ export const resume = [
     icon: <FaBriefcase />,
     year: "2023 - PRESENT",
     title:
-      "UC Berkeley Extension-FullStack Web Developer <span>Student </span>",
-    desc: "As a recent graduate of the FullStack Web Developer program at UC Berkeley Extension, I have a lot of knowledge and hands-on experience with building dynamic and interactive web apps. My training covered cutting-edge technologies like HTML, CSS, JavaScript, React, and Node.js, which let me make smooth user experiences and powerful server-side functions. I am a problem-solver who pays close attention to details and has a strong drive for innovation. I am eager to use my skills on tech projects that will make a difference,",
+      "UC Berkeley Extension-Full Stack Web Developer <span>Student </span>",
+    desc: "Full Stack Web Developer program at UC Berkeley Extension",
   },
 
   {
@@ -156,7 +156,7 @@ export const resume = [
     year: "2022 - 2023",
     title:
       "LottoShield <span>Hardware Technician, Customer Relations, Shipping and Handling, Packaging Designer</span>",
-    desc: "Multiple roles, including Hardware Technician, Customer Relations, Shipping and Handling, Packaging Designer. But my main role was Hardware Technician and Customer Relations. I was responsible for testing and repairing the hardware, and also communicating with customers to resolve their issues.",
+    desc: "Multiple roles.",
   },
 
   {
@@ -172,9 +172,10 @@ export const resume = [
     id: 4,
     category: "education",
     icon: <FaGraduationCap />,
-    year: "Graduated 2010",
-    title: "Alhambra High School <span>High School Diploma </span>",
-    desc: "Graduated with a 3.8 GPA, and was a member of the soccer team.",
+    year: "2023 - Present",
+    title:
+      "University Of Berkeley Extension Coding Bootcamp<span>Full Stack Developer Certificate </span>",
+    desc: "Studied and learned HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, React.js, Git, GitHub, Heroku, and more. ",
   },
   {
     id: 5,
@@ -188,10 +189,9 @@ export const resume = [
     id: 6,
     category: "education",
     icon: <FaGraduationCap />,
-    year: "2023 - Present",
-    title:
-      "University Of Berkeley Extension Coding Bootcamp<span>Fullstack Developer Certificate </span>",
-    desc: "Studied and learned HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, React.js, Git, GitHub, Heroku, and more. ",
+    year: "Graduated 2010",
+    title: "Alhambra High School <span>High School Diploma </span>",
+    desc: "Graduated with a 3.8 GPA, and was a member of the soccer team.",
   },
 ];
 
@@ -233,7 +233,7 @@ export const skills = [
 
   {
     id: 7,
-    title: "Node JS",
+    title: "Node.js",
     percentage: "45",
   },
 

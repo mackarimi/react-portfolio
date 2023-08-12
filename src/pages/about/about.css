@@ -8,14 +8,14 @@
 
 .info__list {
     row-gap: 20px;
-    margin-bottom: 32px;
+    margin-bottom: 15px;
 }
+
 
 .section_subtitle {
     font-size: var(--h3-font-size);
     font-weight: var(--weight-600);
     margin-bottom: 20px;
-
 }
 
 .info__list .info__title,
@@ -23,6 +23,7 @@
     font-size: var(--small-font-size);
 
 }
+
 
 .info__list .info__description {
     color: var(--title-color);
