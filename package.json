@@ -17,6 +17,7 @@
     "@emailjs/browser": "^3.11.0",
     "emailjs": "^4.0.2",
     "html-react-parser": "^4.2.0",
+    "import-fresh": "^3.3.0",
     "react": "^18.2.0",
     "react-circular-progressbar": "^2.1.0",
     "react-dom": "^18.2.0",
