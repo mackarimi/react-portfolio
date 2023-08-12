@@ -1,5 +1,5 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Roboto+Slab:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,700&family=Montserrat:wght@400;600;700&display=swap');
 
 /* CSS VAR() colors*/
 
@@ -12,8 +12,8 @@
     --border-color: hsla(120, 0%, 44%, 0.952);
     --text-white: #fff;
 
-    --body-font: 'Lato', sans-serif;
-    --second-font: 'Roboto Slab', serif;
+    --body-font: 'Montserrat', monospace;
+    --second-font: 'Roboto Slab', arial;
 
     /* CSS VAR() font-size */
 
